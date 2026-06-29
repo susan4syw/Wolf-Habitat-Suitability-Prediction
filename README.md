@@ -112,8 +112,8 @@ All maps and figures are written to `output/`. The interactive map (`output/maps
 
 | Metric | 5-Fold CV Mean ± Std |
 |--------|----------------------|
-| Accuracy | reported after run |
-| ROC-AUC  | reported after run |
+| Accuracy | 0.9700 ± 0.0014 |
+| ROC-AUC  | 0.9945 ± 0.0004 |
 
 Feature coefficients show that **distance from roads** and **elevation** are the strongest predictors of suitability, consistent with wolves preferring remote, lower-elevation forested terrain.
 
